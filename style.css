@@ -48,7 +48,7 @@ header::before{
   right: 0;
   top:0;
   display: block;
-  background-image: url(img/mackey.jpg);
+  background-image: url(images/mackey.jpg);
   background-size: cover;
   transform-origin: center center 0;
   transform: translateZ(-1px) scale(2);
